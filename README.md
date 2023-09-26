@@ -40,5 +40,3 @@ e-mail: `hcan1445@gmail.com`
 
 
 
-
-### Last update: 26-09-2023 16:11 in Korea
