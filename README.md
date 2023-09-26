@@ -14,8 +14,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Skills
-#### Skills
-#### Skills
-#### Skills
-#### Skills
+
+####🛠️ Skills
+
+1 year of frontend development experience and am currently seeking employment. I am capable of working in the following areas:
+
+####📚 Like to further study and gain experience:
+
+#### I currently learning Next13 and Typescript for Financial engineering
+
+#### Within the Financial engineering space, I am interested in
+  - effect of combine with blockchain with stock
+  - calculate of Blockchain asset price wave using physic equation for reserch and financial product 
+  - innovations in Quant financial,BlockChain System, etc
+
+
+#### How to reach me
+
+e-mail: `hcen1445@gmail.com`
+
+
+
+
+### Last update: 26-09-2023 16:08 in Korea
