@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 
 #### 📚 Like to further study and gain experience Topic:
-  -Sign Algorithm: which is best? and how to work?
-  -Javascript: Understand all of working logic.
-  -Next with Typescript: What is best coding in frontend?
-  -R: How to make physic equation for Stock market and How to use?
+  - Sign Algorithm: which is best? and how to work?
+  - Javascript: Understand all of working logic.
+  - Next with Typescript: What is best coding in frontend?
+  - R: How to make physic equation for Stock market and How to use?
 
 #### 💰 I currently learning Next13 and Typescript for Financial engineering:
 
