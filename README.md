@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-####🛠️ Skills
+#### 🛠️ Skills
 
 1 year of frontend development experience and am currently seeking employment. I am capable of working in the following areas:
 
-####📚 Like to further study and gain experience:
+#### 📚 Like to further study and gain experience:
 
 #### I currently learning Next13 and Typescript for Financial engineering
 
@@ -36,4 +36,4 @@ e-mail: `hcan1445@gmail.com`
 
 
 
-### Last update: 26-09-2023 16:09 in Korea
+### Last update: 26-09-2023 16:11 in Korea
