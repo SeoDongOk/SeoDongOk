@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+### Hi there, I'm DongOk Seo 👋
 <!--
 **SeoDongOk/SeoDongOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Skills
+#### Skills
+#### Skills
+#### Skills
+#### Skills
