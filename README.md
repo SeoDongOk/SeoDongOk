@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 #### How to reach me
 
-e-mail: `hcen1445@gmail.com`
+e-mail: `hcan1445@gmail.com`
 
 
 
 
-### Last update: 26-09-2023 16:08 in Korea
+### Last update: 26-09-2023 16:09 in Korea
