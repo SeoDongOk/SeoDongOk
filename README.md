@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 
 
 #### 🛠️ Skills:
-
+<div>
+  <image src='https://img.shields.io/badge/Javascript-F7DF1E'/>
+  <image src='https://img.shields.io/badge/Typescript-3178C6'/>
+  <image src='https://img.shields.io/badge/React-61DAFB'/>
+  <image src='https://img.shields.io/badge/ReactNative-61DAFB'/>
+</div>
 
 #### 📚 Like to further study and gain experience Topic:
   - Sign Algorithm: which is best? and how to work?
