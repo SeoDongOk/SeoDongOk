@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <image src='https://img.shields.io/badge/Typescript-3178C6'/>
   <image src='https://img.shields.io/badge/React-61DAFB'/>
   <image src='https://img.shields.io/badge/ReactNative-61DAFB'/>
+  <image src='https://img.shields.io/badge/Python-85CBF8'/>
 </div>
 
 #### 📚 Like to further study and gain experience Topic:
