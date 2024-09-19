@@ -1,6 +1,8 @@
 ### Hi there, I'm DongOk Seo 👋
 
-1 year experience Frontend devloper in Blockchain Wallet.
+You can check my [Portfolio Homepage]("portfolio-ten-psi-17.vercel.app") for more details
+
+I worked as a Frontend and App Developer for 1 year in Blockchain Wallet development.
 <!--
 **SeoDongOk/SeoDongOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,6 +45,8 @@ Here are some ideas to get you started:
 #### How to reach me
 
 e-mail: `hcan1445@gmail.com`
+
+
 
 
 
