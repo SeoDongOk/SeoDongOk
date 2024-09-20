@@ -1,6 +1,6 @@
 ### Hi there, I'm DongOk Seo 👋
 
-You can check my [Portfolio Homepage]("https://portfolio-ten-psi-17.vercel.app/") for more details
+You can check my  [Portfolio Homepage](https://portfolio-ten-psi-17.vercel.app/) for more details
 
 I worked as a Frontend and App Developer for 1 year in Blockchain Wallet development.
 <!--
