@@ -34,9 +34,10 @@ Here are some ideas to get you started:
   - Next with Typescript: What is best coding in frontend?
   - R: How to make physic equation for Stock market and How to use?
 
-#### 💰 I currently learning Next13 and Typescript for Financial engineering:
+#### 💰 I currently learning Next14 and Typescript, Python for Financial engineering:
 
 #### 📊 Within the Financial engineering space, I am interested in:
+  - <b>🔥handling Mydata for various insight🔥</b>
   - effect of combine with blockchain with stock
   - calculate of Blockchain asset price wave using physic equation for reserch and financial product 
   - innovations in Quant financial,BlockChain System, etc
