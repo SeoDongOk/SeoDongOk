@@ -1,6 +1,7 @@
 ### Hi there, I'm DongOk Seo 👋
 
-You can check my  [Portfolio Homepage](https://portfolio-ten-psi-17.vercel.app/) for more details
+You can check my  [Portfolio Notion Page](https://brazen-hope-1c6.notion.site/About-Me-1263e6bc575b80628560c9e5297deebf) for more details
+
 
 I worked as a Frontend and App Developer for 1 year in Blockchain Wallet development.
 <!--
@@ -25,14 +26,16 @@ Here are some ideas to get you started:
   <image src='https://img.shields.io/badge/Typescript-3178C6'/>
   <image src='https://img.shields.io/badge/React-61DAFB'/>
   <image src='https://img.shields.io/badge/ReactNative-61DAFB'/>
+  <image src='https://img.shields.io/badge/Next.js-000000'/>
   <image src='https://img.shields.io/badge/Python-85CBF8'/>
+  <image src='https://img.shields.io/badge/Django-092E20'/>
 </div>
 
 #### 📚 Like to further study and gain experience Topic:
   - Sign Algorithm: which is best? and how to work?
   - Javascript: Understand all of working logic.
-  - Next with Typescript: What is best coding in frontend?
-  - R: How to make physic equation for Stock market and How to use?
+  - Next.js with Typescript: What is best coding in frontend?
+  - Rust: How to work and Low level coding.
 
 #### 💰 I currently learning Next14 and Typescript, Python for Financial engineering:
 
