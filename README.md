@@ -34,19 +34,22 @@ Here are some ideas to get you started:
 #### 📚 Like to further study and gain experience Topic:
   - Sign Algorithm: which is best? and how to work?
   - Javascript: Understand all of working logic.
-  - Next.js with Typescript: What is best coding in frontend?
+  - React, Next.js with Typescript: What is best coding in frontend?
+  - Zustand: challenge for new state management 🔥
+  - GraphQL and Postgresql: what is different with MySQL?
   - Rust: How to work and Low level coding.
 
-#### 💰 I currently learning Next14 and Typescript, Python for Financial engineering:
+
+<!-- #### 💰 I currently learning Next14 and Typescript, Python for Financial engineering:
 
 #### 📊 Within the Financial engineering space, I am interested in:
   - <b>🔥handling Mydata for various insight🔥</b>
   - effect of combine with blockchain with stock
   - calculate of Blockchain asset price wave using physic equation for reserch and financial product 
   - innovations in Quant financial,BlockChain System, etc
+-->
 
-
-#### How to reach me
+#### 📫 How to reach me
 
 e-mail: `hcan1445@gmail.com`
 
